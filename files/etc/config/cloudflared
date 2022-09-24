@@ -1,0 +1,3 @@
+
+config cloudflared 'config'
+	option token '1234abcd'
